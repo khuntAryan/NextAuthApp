@@ -36,7 +36,7 @@ export default function LoginPage() {
             </button>
 
 
-            <Link href={'/login'}>visit signup page</Link>
+            <Link href={'/signup'}>visit signup page</Link>
         </div>
     );
 
